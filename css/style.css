@@ -143,11 +143,15 @@ h3.header-text{
 
 a.header-btn {
   border: 1px solid rgb(223, 49, 74);
-  background-color: black;
-  color: red;
+  background-color: #228C87;
+  color: white;
   /* box-shadow: 2px 2px #625862; */
   font-size: 20px;
   padding: 17px 25px;
+}
+.sup {
+  color: #1ebea5;
+  background: white;
 }
 
 .header-btn:hover {
@@ -349,7 +353,7 @@ a#menu-close:hover {
   height: 100%;
   width: 100%;
   position: relative;
-  background: url(https://images.pexels.com/photos/219998/pexels-photo-219998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) no-repeat center center fixed; 
+  background: url(https://images.pexels.com/photos/348523/pexels-photo-348523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -769,10 +773,12 @@ figure.effect-zoe:hover p.icon-links a:first-child {
 /* Footer */
 
 footer {
-  padding: 100px 0;
-  background:url(../img/sky.jpg);
-  height: 330px;
-  margin-top: -20px;
+  height: 100%;
+  width: 100%;
+  position: relative;
+  background: url(https://images.pexels.com/photos/358160/pexels-photo-358160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) no-repeat center center fixed; 
+  background-size: cover;
+  color: white;
 }
 
 .list-inline{
