@@ -436,6 +436,7 @@ h4.service-title {
 }
 figure.effect-zoe:hover {
   background: black;
+
 }
 .grid figure img {
   opacity: 0.7;
@@ -546,6 +547,10 @@ figure.effect-zoe p.description {
   -webkit-transition: opacity 0.35s;
   transition: opacity 0.35s;
   -webkit-backface-visibility: hidden;
+}
+
+.pics{
+  width: 100%
 }
 
 figure.effect-zoe h2,
@@ -829,11 +834,11 @@ i.scroll:hover {
 @media (max-width: 768px) {
   
   .header {
-  background: url(../img/bg.jpg) no-repeat center center scroll; 
+  background: url(https://images.pexels.com/photos/348523/pexels-photo-348523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) no-repeat center center scroll; 
   }
 
   .callout {
-  background: url(../img/callout.jpg) no-repeat center center scroll; 
+  background: url(https://images.pexels.com/photos/68672/beach-beverage-caribbean-cocktail-68672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) no-repeat center center scroll; 
   }
 
   .map {
