@@ -781,7 +781,7 @@ footer {
   height: 100%;
   width: 100%;
   position: relative;
-  background: url(https://images.pexels.com/photos/358160/pexels-photo-358160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) no-repeat center center fixed; 
+  background: url("/Users/lucasalvarado/Desktop/development/transportacion/miguel/img/ocean.jpg") no-repeat center center fixed; 
   background-size: cover;
   color: white;
 }
