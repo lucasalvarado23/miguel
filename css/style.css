@@ -150,8 +150,8 @@ a.header-btn {
   padding: 17px 25px;
 }
 .sup {
-  color: #1ebea5;
-  background: white;
+  color: white;
+  background: black;
 }
 
 .header-btn:hover {
@@ -781,7 +781,7 @@ footer {
   height: 100%;
   width: 100%;
   position: relative;
-  background: url("/Users/lucasalvarado/Desktop/development/transportacion/miguel/img/ocean.jpg") no-repeat center center fixed; 
+  background: url("../img/ocean.jpg") no-repeat center center fixed; 
   background-size: cover;
   color: white;
 }
